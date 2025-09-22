@@ -1,0 +1,6 @@
+tk
+SpeechRecognition
+gTTS
+playsound
+deep-translator
+pyaudio
