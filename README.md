@@ -22,7 +22,7 @@ Uses **SpeechRecognition**, **deep-translator** (Google Translate API), and **gT
 - 🌐 Translate into multiple languages simultaneously  
 - 🔊 Real-time audio playback of translations  
 - 🖥 Tkinter GUI with Dark/Light theme toggle  
-- ⚙ Configurable settings saved in `config/settings.json`  
+- ⚙ Configurable settings saved in `config.json`  
 - 📝 Tooltips for guidance on buttons  
 - 🧹 Clear input/output fields with a single click  
 
