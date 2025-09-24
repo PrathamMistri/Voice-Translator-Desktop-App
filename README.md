@@ -32,8 +32,8 @@ Uses **SpeechRecognition**, **deep-translator** (Google Translate API), and **gT
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/your-username/real-time-voice-translator.git
-cd real-time-voice-translator
+git clone https://github.com/PrathamMistri/Voice-Translator-Desktop-App.git
+cd Voice-Translator-Desktop-App
 ```
 
 2. **Install dependencies**  
